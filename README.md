@@ -1,4 +1,4 @@
-Bienvenue :wave: 
+## Bienvenue :wave: 
  
  💫 Apprenant à Ada Tech School, je découvre le code et le monde de la tech un peu plus chaque jour. 💫
 
