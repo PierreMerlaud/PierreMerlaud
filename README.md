@@ -10,7 +10,5 @@
 :computer: En apprentissage de React js.<br />
 :microscope: Autres technos abordées : php, mysql, laravel.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PierreMerlaud&theme=gotham)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PierreMerlaud&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PierreMerlaud&theme=gotham) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PierreMerlaud&theme=gotham)
 
