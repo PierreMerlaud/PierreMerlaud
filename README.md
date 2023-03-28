@@ -4,7 +4,6 @@
  
  ### :mag_right: En recherche d'une alternance débutant en juin/juillet 2023.
  
-:turtle: Apprenti développeur en renconversion à Ada Tech school.<br />
 :video_camera: Anciennement cameraman.<br />
 :sparkles: Appétence pour le Front-End et le développement web.<br />
 :computer: En apprentissage de React js.<br />
