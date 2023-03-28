@@ -6,7 +6,7 @@
  
  :turtle: Apprenti développeur en renconversion à Ada Tech school.<br />
 :video_camera: Anciennement cameraman.<br />
-:sparkles: Appétence pour le Front-End et le développement web. (HTML, CSS, JS).<br />
+:sparkles: Appétence pour le Front-End et le développement web. ([![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)).<br />
 :computer: En apprentissage de React js.<br />
 :microscope: Autres technos abordées : php, mysql, laravel.
 
