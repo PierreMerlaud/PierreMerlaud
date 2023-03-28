@@ -9,6 +9,7 @@
 :sparkles: Appétence pour le Front-End et le développement web.<br />
 :computer: En apprentissage de React js.<br />
 :microscope: Autres technos abordées : php, mysql, laravel.<br />
+<br />
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,mysql,laravel)](https://skillicons.dev)<br />
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PierreMerlaud&theme=gotham) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PierreMerlaud&theme=gotham&exclude=exclude)
