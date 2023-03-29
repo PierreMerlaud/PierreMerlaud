@@ -11,6 +11,6 @@
 <br />
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,php,mysql,laravel)](https://skillicons.dev)<br />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PierreMerlaud&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PierreMerlaud&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PierreMerlaud&theme=gotham) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PierreMerlaud&theme=gotham)
  
 
