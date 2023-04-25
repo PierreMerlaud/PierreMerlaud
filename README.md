@@ -2,7 +2,7 @@
  
  ### 💫 Apprenant Full-Stack à Ada Tech School, je découvre le code et le monde de la tech un peu plus chaque jour. 💫
  
- ### :mag_right: En recherche d'une alternance débutant en juin/juillet 2023.
+ ### :mag_right: En recherche d'une alternance à partir de juin 2023.
  
 :video_camera: Anciennement cameraman.<br />
 :sparkles: Appétence pour le Front-End et le développement web.<br />
