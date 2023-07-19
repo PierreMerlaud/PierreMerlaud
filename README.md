@@ -6,9 +6,11 @@
  
 :video_camera: Anciennement cameraman.<br />
 :sparkles: Appétence pour le Front-End et le développement web.<br />
-:computer: En apprentissage de React, React Native, Node, MongoDB, Tailwind, Sass, Git / Github.<br />
+:computer: En apprentissage de React, Next-js, Node, MongoDB, Tailwind, Sass, Git / Github.<br />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nodejs,mongodb,git,github)](https://skillicons.dev)<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js)](https://skillicons.dev)<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=js,react, next-js, nodejs,mongodb,git,github)](https://skillicons.dev)<br />
 <br />
 :microscope: Autres technos abordées : php, mysql, laravel.<br />
 
