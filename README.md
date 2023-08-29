@@ -2,7 +2,7 @@
  
  ### 💫 Apprenant développeur Front / Full-Stack, je découvre le code et le monde de la tech un peu plus chaque jour. 💫
  
- ### :mag_right: En recherche d'une alternance à partir de l'été 2023 (ou septembre).
+ ### :mag_right: En recherche d'une alternance à partir de septembre 2023.
  
 :video_camera: Anciennement cameraman.<br />
 :sparkles: Appétence pour le Front-End et le développement web.<br />
