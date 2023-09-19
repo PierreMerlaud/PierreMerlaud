@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js)](https://skillicons.dev)<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=js,react,typescript,nextjs,nodejs,mongodb,git,github)](https://skillicons.dev)<br />
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,mongodb,git,github)](https://skillicons.dev)<br />
 <br />
 :microscope: Autres technos abordées : php, mysql, laravel.<br />
 
