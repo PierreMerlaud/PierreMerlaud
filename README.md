@@ -4,7 +4,7 @@
  
  ### :mag_right: En recherche d'une alternance à partir de novembre 2023.
  
-:video_camera: Anciennement cameraman.<br />
+:video_camera: Ancien cameraman.<br />
 :sparkles: Appétence pour le Front-End et le développement web.<br />
 :computer: En apprentissage de React, TypeScript, Next-js, Node, MongoDB, Tailwind, Sass, Git / Github.<br />
 
