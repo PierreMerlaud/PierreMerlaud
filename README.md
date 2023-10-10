@@ -6,7 +6,7 @@
  
 :video_camera: Ancien cameraman.<br />
 :sparkles: Appétence pour le Front-End et le développement web.<br />
-:computer: En apprentissage de React, TypeScript, Next-js, Node, MongoDB, Tailwind, Sass, Git / Github.<br />
+:computer: En apprentissage de React, TypeScript, Next-js, Node, MongoDB, Sass, Git / Github.<br />
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js)](https://skillicons.dev)<br />
 <br />
