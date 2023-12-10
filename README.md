@@ -2,8 +2,6 @@
  
  ### 💫 Apprenant développeur Front / Full-Stack, je découvre le code et le monde de la tech un peu plus chaque jour. 💫
  
- ### :mag_right: En recherche d'une alternance à partir de novembre 2023.
- 
 :video_camera: Ancien cameraman.<br />
 :sparkles: Appétence pour le Front-End et le développement web.<br />
 :computer: En apprentissage de React, TypeScript, Next-js, Node, MongoDB, Sass, Git / Github.<br />
